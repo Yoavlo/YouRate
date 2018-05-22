@@ -1,2 +1,2 @@
 # YouRate
-One app to rate them all
+One app to rate them all.
