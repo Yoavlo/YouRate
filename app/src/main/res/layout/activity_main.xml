@@ -22,9 +22,18 @@
             android:layout_alignParentTop="true"
             android:text="One app to rate them all"
             android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/main_activity_mainTopicTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="" />
     </RelativeLayout>
 
     <android.support.constraint.ConstraintLayout
+        android:id="@+id/fragmentHolder"
         android:layout_width="match_parent"
         android:layout_height="475dp"
 
